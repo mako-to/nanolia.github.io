@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Makoto Miura&#39;s Docs</title>
+    <link>https://makotomiura.com/post/</link>
+    <description>Recent content in Posts on Makoto Miura&#39;s Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <copyright>Copyright (C) 2015- Makoto Miura All Right Reserved.</copyright>
+    <lastBuildDate>Wed, 16 Dec 2015 22:44:04 +0900</lastBuildDate>
+    <atom:link href="https://makotomiura.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ブログ事始め</title>
+      <link>https://makotomiura.com/2015/12/16/about</link>
+      <pubDate>Wed, 16 Dec 2015 22:44:04 +0900</pubDate>
+      
+      <guid>https://makotomiura.com/2015/12/16/about</guid>
+      <description>
+
+&lt;p&gt;今日はクリスマス祝会でした。&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;var x = &amp;quot;foo&amp;quot;;
+const y = &amp;quot;01234&amp;quot;;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;見出し2:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;見出し2&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;blah blah blah&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;できたできた。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
