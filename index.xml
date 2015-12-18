@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Makoto Miura&#39;s Docs</title>
-    <link>https://makotomiura.com/</link>
+    <link>http://makotomiura.com/</link>
     <description>Recent content on Makoto Miura&#39;s Docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>Copyright (C) 2015- Makoto Miura All Right Reserved.</copyright>
     <lastBuildDate>Wed, 16 Dec 2015 22:44:04 +0900</lastBuildDate>
-    <atom:link href="https://makotomiura.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://makotomiura.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>ブログ事始め</title>
-      <link>https://makotomiura.com/2015/12/16/about/</link>
+      <link>http://makotomiura.com/2015/12/16/about/</link>
       <pubDate>Wed, 16 Dec 2015 22:44:04 +0900</pubDate>
       
-      <guid>https://makotomiura.com/2015/12/16/about/</guid>
+      <guid>http://makotomiura.com/2015/12/16/about/</guid>
       <description>
 
 &lt;p&gt;今日はクリスマス祝会でした。&lt;/p&gt;
